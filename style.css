@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .header-session {
@@ -183,6 +184,8 @@
   padding-left: 210px;
 }
 .icon {
+  display: flex;
+  gap: 20px;
 }
 input {
   padding: 15px 60px;
